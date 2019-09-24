@@ -2,7 +2,7 @@
 Peronal Project for COP 3003
 
 # Haunted Zillow
-# Description
+
 The project is for finding haunted properties in the United States that are for sale
 
 # 1. Creating a starting database
